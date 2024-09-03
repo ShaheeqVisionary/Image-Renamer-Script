@@ -16,7 +16,7 @@ This Python script is designed to rename images in one folder to match the filen
    ```python
    folder_a_path = 'path/to/folder/A'
    folder_b_path = 'path/to/folder/B'
-   ```
+   `````
 
 3. **Run the script**:
    Execute the script using Python.
